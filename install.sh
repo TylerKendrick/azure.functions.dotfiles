@@ -1,3 +1,2 @@
 #!bin/bash
-./installpowershellcore.sh
-./installcredprovider.sh
+bash installcredprovider.sh
