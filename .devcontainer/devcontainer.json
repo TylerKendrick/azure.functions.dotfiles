@@ -1,0 +1,7 @@
+{
+  "name": "dotnet Codespace",
+  "extensions": [
+    "ms-vscode.vs-keybindings",
+    "ms-dotnettools.csharp"
+  ]
+}
